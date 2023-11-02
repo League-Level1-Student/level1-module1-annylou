@@ -10,8 +10,8 @@ import java.util.Random;
 import javax.swing.JOptionPane;
 import javax.swing.Timer;
 
-import game_tools.Game;
-import game_tools.GameScene;
+import game.tools.Game;
+import game.tools.GameScene;
 
 public class AsteroidsGame implements GameScene, ActionListener {
 
